@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Калмыков
+//    4. Написать программу обмена значениями двух переменных.
+//а) с использованием третьей переменной;
+//б) * без использования третьей переменной.
+
 namespace quest4
 {
     class Program
